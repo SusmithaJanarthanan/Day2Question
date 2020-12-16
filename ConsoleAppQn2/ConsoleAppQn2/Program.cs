@@ -49,6 +49,8 @@ namespace ConsoleAppQn2
 
                 if (flag == 1)
                     Console.WriteLine(i);
+                
+                Console.WriteLine("Supriya");
             }
         }
     }
