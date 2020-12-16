@@ -1,0 +1,10 @@
+SAMPLE INPUT:
+1
+5
+
+
+SAMPLE OUTPUT:
+
+2
+3
+5
