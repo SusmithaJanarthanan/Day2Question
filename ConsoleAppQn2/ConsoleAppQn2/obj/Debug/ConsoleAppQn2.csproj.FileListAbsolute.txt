@@ -1,0 +1,7 @@
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\bin\Debug\ConsoleAppQn2.exe.config
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\bin\Debug\ConsoleAppQn2.exe
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\bin\Debug\ConsoleAppQn2.pdb
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\obj\Debug\ConsoleAppQn2.csprojAssemblyReference.cache
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\obj\Debug\ConsoleAppQn2.csproj.CoreCompileInputs.cache
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\obj\Debug\ConsoleAppQn2.exe
+D:\LTI\SPECIALISATION\qn2\ConsoleAppQn2\ConsoleAppQn2\obj\Debug\ConsoleAppQn2.pdb
