@@ -1,10 +1,15 @@
-SAMPLE INPUT:
-1
+Enter lower bound of the interval:
 5
 
+Enter upper bound of the interval:
+10
 
-SAMPLE OUTPUT:
-
-2
-3
+Prime numbers between 5 and 10 are:
 5
+Supriya
+Supriya
+7
+Supriya
+Supriya
+Supriya
+Supriya
